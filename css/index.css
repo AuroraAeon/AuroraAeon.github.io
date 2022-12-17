@@ -3187,12 +3187,12 @@ h1.page-title + .tag-cloud-list {
   content: '';
 }
 #page-header.full_page {
-  height: 100px;
+  height: 100vh;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
   position: absolute;
-  top: 43%;
+  top: 100%;
   padding: 0 10px;
   width: 100%;
 }
